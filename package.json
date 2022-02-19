@@ -1,0 +1,23 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lukinaa/ToDoList.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lukinaa/ToDoList/issues"
+  },
+  "homepage": "https://github.com/Lukinaa/ToDoList#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
