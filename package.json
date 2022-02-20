@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/Lukinaa/ToDoList#readme",
   "dependencies": {
+    "ejs": "^3.1.6",
     "express": "^4.17.3",
     "lodash": "^4.17.21"
   },
-  "devDependencies": {},
   "description": ""
 }
